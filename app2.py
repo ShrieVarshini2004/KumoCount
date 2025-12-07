@@ -414,7 +414,7 @@ def show_home_page():
         <div class='hero-content'>
             <div class='hero-video'>
                 <video autoplay muted loop playsinline preload="auto">
-                    <source src="https://raw.githubusercontent.com/ShrieVarshini2004/KumoCount/main/count.mp4" type="video/mp4">
+                    <source src="https://raw.githubusercontent.com/ShrieVarshini2004/KumoCount/main/crowd_video.mp4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>
             </div>
